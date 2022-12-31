@@ -1,0 +1,7 @@
+"Code" -> folder contains code from scratch for 
+		1) batch
+		2) Mini Batch
+		3) Stochastic gradient
+
+"Diagram" -> folder contains images of the pipeline
+"Textual-outputs-and-graphs" -> contains the explanation of all codes
